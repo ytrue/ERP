@@ -1,0 +1,42 @@
+[2018-12-24 13:27:10] production.ERROR: Uncaught ErrorException: file_put_contents(C:\wamp64\www\Laravel5.6-CRM\storage\framework\views/8d53dc413646a56fd1145bf5659866a464d51ce9.php): failed to open stream: No such file or directory in /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/usr/share/ngin...', 122, Array)
+#1 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('C:\\wamp64\\www\\L...', '<?php $__env->s...', 0)
+#2 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(122): Illuminate\Filesystem\Filesystem->put('C:\\wamp64\\www\\L...', '<?php $__env->s...')
+#3 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/usr/share/ng {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ErrorException: file_put_contents(C:\\wamp64\\www\\Laravel5.6-CRM\\storage\\framework\\views/8d53dc413646a56fd1145bf5659866a464d51ce9.php): failed to open stream: No such file or directory in /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'file_put_conten...', '/usr/share/ngin...', 122, Array)
+#1 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('C:\\\\wamp64\\\\www\\\\L...', '<?php $__env->s...', 0)
+#2 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(122): Illuminate\\Filesystem\\Filesystem->put('C:\\\\wamp64\\\\www\\\\L...', '<?php $__env->s...')
+#3 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\\View\\Compilers\\BladeCompiler->compile('/usr/share/ng at /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 13:28:46] production.ERROR: Uncaught ErrorException: file_put_contents(C:\wamp64\www\Laravel5.6-CRM\storage\framework\views/8d53dc413646a56fd1145bf5659866a464d51ce9.php): failed to open stream: No such file or directory in /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/usr/share/ngin...', 122, Array)
+#1 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('C:\\wamp64\\www\\L...', '<?php $__env->s...', 0)
+#2 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(122): Illuminate\Filesystem\Filesystem->put('C:\\wamp64\\www\\L...', '<?php $__env->s...')
+#3 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/usr/share/ng {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ErrorException: file_put_contents(C:\\wamp64\\www\\Laravel5.6-CRM\\storage\\framework\\views/8d53dc413646a56fd1145bf5659866a464d51ce9.php): failed to open stream: No such file or directory in /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'file_put_conten...', '/usr/share/ngin...', 122, Array)
+#1 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('C:\\\\wamp64\\\\www\\\\L...', '<?php $__env->s...', 0)
+#2 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(122): Illuminate\\Filesystem\\Filesystem->put('C:\\\\wamp64\\\\www\\\\L...', '<?php $__env->s...')
+#3 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\\View\\Compilers\\BladeCompiler->compile('/usr/share/ng at /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122)
+[stacktrace]
+#0 {main}
+"} 
+[2018-12-24 13:30:01] production.ERROR: Uncaught ErrorException: file_put_contents(C:\wamp64\www\Laravel5.6-CRM\storage\framework\views/8d53dc413646a56fd1145bf5659866a464d51ce9.php): failed to open stream: No such file or directory in /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'file_put_conten...', '/usr/share/ngin...', 122, Array)
+#1 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('C:\\wamp64\\www\\L...', '<?php $__env->s...', 0)
+#2 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(122): Illuminate\Filesystem\Filesystem->put('C:\\wamp64\\www\\L...', '<?php $__env->s...')
+#3 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\View\Compilers\BladeCompiler->compile('/usr/share/ng {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Uncaught ErrorException: file_put_contents(C:\\wamp64\\www\\Laravel5.6-CRM\\storage\\framework\\views/8d53dc413646a56fd1145bf5659866a464d51ce9.php): failed to open stream: No such file or directory in /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122
+Stack trace:
+#0 [internal function]: Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(2, 'file_put_conten...', '/usr/share/ngin...', 122, Array)
+#1 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(122): file_put_contents('C:\\\\wamp64\\\\www\\\\L...', '<?php $__env->s...', 0)
+#2 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php(122): Illuminate\\Filesystem\\Filesystem->put('C:\\\\wamp64\\\\www\\\\L...', '<?php $__env->s...')
+#3 /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(51): Illuminate\\View\\Compilers\\BladeCompiler->compile('/usr/share/ng at /usr/share/nginx/html/Laravel5.6-CRM/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php:122)
+[stacktrace]
+#0 {main}
+"} 
